@@ -6,3 +6,5 @@ def test_dummy_file_branch():
 def test_another_dummy_function():
     print("This is another dummy function in the dummy test file.")
     print("Lets Merge Code!!!")
+
+    print("The End.")
